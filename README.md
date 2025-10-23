@@ -1,6 +1,6 @@
 # Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization
 
-Our results were obtained by forking two open-source benchmarks: [MCBO](https://github.com/colmont/HEBO) and [NASLIB](https://github.com/colmont/HEBO). Both forks contain an updated `README.md` with instructions, and the commit history can be analyzed to understand the modifications made for our paper.
+Our results were obtained by forking two open-source benchmarks: [MCBO](https://github.com/colmont/HEBO/) and [NASLIB](https://github.com/colmont/NASLIB). Both forks contain an updated `README.md` with instructions, and the commit history can be analyzed to understand the modifications made for our paper.
 
 ```bibtex
 @inproceedings{
