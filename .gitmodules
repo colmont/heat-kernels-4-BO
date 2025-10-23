@@ -1,0 +1,6 @@
+[submodule "HEBO"]
+	path = HEBO
+	url = https://github.com/colmont/HEBO.git
+[submodule "NASLIB"]
+	path = NASLIB
+	url = https://github.com/colmont/NASLIB.git
